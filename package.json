@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "delay": "^4.3.0",
+    "dotenv": "^8.2.0",
+    "ping": "^0.2.3",
+    "pro.db": "^3.0.8",
+    "puppeteer": "^21.5.2",
+    "puppeteer-core": "^21.1.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.8",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
